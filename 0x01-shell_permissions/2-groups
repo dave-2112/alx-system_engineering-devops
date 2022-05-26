@@ -1,2 +1,2 @@
 #!/bin/bash
-getent group name_of_group
+id -gn
