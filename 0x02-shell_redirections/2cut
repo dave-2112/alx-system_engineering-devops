@@ -1,0 +1,1 @@
+#!/bin/bash -d : -f 1,6 /etc/passwd
