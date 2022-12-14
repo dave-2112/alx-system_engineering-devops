@@ -1,4 +1,4 @@
-# create a file in /tmp.
+# create a file in /tmp/school.
 file {'/tmp/school':
     owner   => 'www-data',
     group   => 'www-data',
